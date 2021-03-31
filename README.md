@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @POY170
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nattawadee.p99@gmail.com
 
 <!---
